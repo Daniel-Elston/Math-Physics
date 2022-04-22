@@ -2,7 +2,7 @@
 
 <hr>
 
-<h1 align='center'> Physics/Math Python Visuals/Simulations </h1>
+<h1 align='center'> Physics/Math Python Visuals and Simulations </h1>
 
 <hr>
 
@@ -15,6 +15,9 @@
 
 ## Technology
 - Language: Python 3.7
+
+## Introduction
+A collection of visuals and simulations centred around mathematics and physics.
 
 
 |Name     |  GitHub Handles   |  
