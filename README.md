@@ -9,7 +9,7 @@
 
 
 ## Status and Details
-- **Project Status**: [Ongoing]
+- **Project Status**: [Continuous]
 - **Date Coded**: 22/04/2022
 
 
