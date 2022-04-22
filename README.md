@@ -20,10 +20,6 @@
 A collection of visuals and simulations centred around mathematics and physics.
 
 
-|Name     |  GitHub Handles   |  
-|---------|-----------------|
-| Daniel Elston | [Git DE](https://github.com/Daniel-Elston)   |
-
 Please feel free to contact me if you have any questions, require any further information or wish to contribute.<br/>
 Email 1: delstonds@outlook.com
 Email 2: ec21024@qmul.ac.uk
