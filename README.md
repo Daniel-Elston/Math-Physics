@@ -7,7 +7,6 @@
 <hr>
 
 
-
 ## Status and Details
 - **Project Status**: [Continuous]
 - **Date Coded**: 22/04/2022
@@ -16,10 +15,17 @@
 ## Technology
 - Language: Python 3.7
 
-## Introduction
+## Description
 A collection of visuals and simulations centred around mathematics and physics.
 
 
+## Contributing Members and Contacts
+**Team Lead: [Daniel Elston](https://github.com/Daniel-Elston)**
+
+|Name     |  GitHub Handles   |  
+|---------|-----------------|
+| Daniel Elston | [Git DE](https://github.com/Daniel-Elston)   |
+
 Please feel free to contact me if you have any questions, require any further information or wish to contribute.<br/>
-Email 1: delstonds@outlook.com
+Email 1: delstonds@outlook.com<br/>
 Email 2: ec21024@qmul.ac.uk
